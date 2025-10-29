@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "#makethestreetsflyagain",
-    "\"welcome to my crib\""
+    "\"pan moneta🪙\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -670,5 +670,6 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
 
