@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "swag over anything",
+    "#makethestreetsflyagain",
     "\"welcome to my crib\""
   ];
   let bioText = '';
@@ -670,4 +670,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
